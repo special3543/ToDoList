@@ -19,7 +19,7 @@ This is a simple To-Do List application developed using Python and PyQt5. The ap
 - Install PyQt5 and appdirs by running the command: `pip install pyqt5 appdirs`
 - Clone or download this repository
 - Navigate to the repository's directory
-- Run `main.py` to start the app
+- Run `main.py` to start the app || get .exe from pyinstaller
 
 ## How to Use
 
